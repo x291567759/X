@@ -1,2 +1,2 @@
 # X
-first repository
+this is a copy
